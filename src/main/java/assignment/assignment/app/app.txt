@@ -1,0 +1,4 @@
+#non inclusive language words
+abort
+
+master
