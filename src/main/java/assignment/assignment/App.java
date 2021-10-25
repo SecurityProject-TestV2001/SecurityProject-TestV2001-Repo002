@@ -13,4 +13,10 @@ public class App
         String token = "vd54fghrthy4y56y6";
         String apikey = "tirt349875304986-0jfwdotie0";
     }
+    
+    public void testLFX()
+    {
+        String password = "25oct2021";
+        String token = "token25oct";
+    }
 }
