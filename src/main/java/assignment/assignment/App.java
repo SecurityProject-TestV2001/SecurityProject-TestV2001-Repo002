@@ -16,7 +16,6 @@ public class App
     
     public void testLFX()
     {
-        String password = "25oct2021";
         String token = "token25oct";
     }
 }
